@@ -1,8 +1,16 @@
-Hi, I'm a student at SLIATE pursuing a Higher National Diploma in Information Technology (HNDIT).
+### Hello there! 👋
 
-I am passionate about software development and building efficient database-driven applications. Recently, I have been working on developing desktop applications using Java (NetBeans) integrated with MySQL databases.
+I'm an **HNDIT student at SLIATE** passionate about software development.
 
-I am always eager to learn new technologies, improve my coding skills, and contribute to meaningful projects. Currently focused on enhancing my backend development skills and software engineering practices.
+- 💻 Currently working on: Desktop application development using **Java (NetBeans) & MySQL**.
+- 🌱 Always learning and exploring new technologies.
+- 🤝 Open for collaborations.
+- 📫 How to reach me: [Your Email/LinkedIn Link]
 
-🛠 Tech Stack: Java, MySQL, NetBeans IDE.
-💬 Feel free to reach out if you'd like to collaborate or chat about software development!
+### Tech Stack
+*   **Languages:** Java
+*   **Database:** MySQL
+*   **Tools:** NetBeans IDE, Git
+
+---
+*Visit my projects to see what I've been building!*
